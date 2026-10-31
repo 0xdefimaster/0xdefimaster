@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132">
+<rect width="1200" height="132" rx="12" fill="#0b1220" stroke="#263851"/>
+<text x="24" y="26" fill="#8199b8" font-family="Arial" font-size="10" font-weight="700" letter-spacing="2">TOOLS I USE TO SHIP PRODUCTS</text>
+<rect x="97.0" y="44" width="150.0" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="110.0" cy="58" r="3.5" fill="#4dd5ff"/>
+<text x="122.0" y="62" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">TypeScript</text>
+<rect x="259.0" y="44" width="126.8" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="272.0" cy="58" r="3.5" fill="#9b91ff"/>
+<text x="284.0" y="62" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">Python</text>
+<rect x="397.8" y="44" width="138.4" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="410.8" cy="58" r="3.5" fill="#c0a1ff"/>
+<text x="422.8" y="62" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">Solidity</text>
+<rect x="548.2" y="44" width="121.0" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="561.2" cy="58" r="3.5" fill="#67d7ff"/>
+<text x="573.2" y="62" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">React</text>
+<rect x="681.2" y="44" width="132.6" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="694.2" cy="58" r="3.5" fill="#62baff"/>
+<text x="706.2" y="62" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">Next.js</text>
+<rect x="825.8" y="44" width="132.6" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="838.8" cy="58" r="3.5" fill="#a7c6e8"/>
+<text x="850.8" y="62" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">Node.js</text>
+<rect x="970.4" y="44" width="132.6" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="983.4" cy="58" r="3.5" fill="#6be2bd"/>
+<text x="995.4" y="62" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">FastAPI</text>
+<rect x="157.7" y="86" width="121.0" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="170.7" cy="100" r="3.5" fill="#9aa8bd"/>
+<text x="182.7" y="104" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">Flask</text>
+<rect x="290.7" y="86" width="150.0" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="303.7" cy="100" r="3.5" fill="#7fb8ff"/>
+<text x="315.7" y="104" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">PostgreSQL</text>
+<rect x="452.7" y="86" width="138.4" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="465.7" cy="100" r="3.5" fill="#63d6bd"/>
+<text x="477.7" y="104" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">Supabase</text>
+<rect x="603.1" y="86" width="126.8" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="616.1" cy="100" r="3.5" fill="#9aa8bd"/>
+<text x="628.1" y="104" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">Docker</text>
+<rect x="741.9" y="86" width="115.2" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="754.9" cy="100" r="3.5" fill="#8d9cff"/>
+<text x="766.9" y="104" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">viem</text>
+<rect x="869.1" y="86" width="173.2" height="28" rx="7" fill="#111e32" stroke="#304764"/>
+<circle cx="882.1" cy="100" r="3.5" fill="#61d6c5"/>
+<text x="894.1" y="104" fill="#d7e6f7" font-family="Arial" font-size="11" font-weight="600">LI.FI Composer</text>
+</svg>
